@@ -1,3 +1,6 @@
+package org.example;
+
+import org.example.task2.Task;
 
 import java.util.ArrayList;
 import java.util.Collections;
